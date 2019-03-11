@@ -120,6 +120,7 @@ section div.panel img.survival {
 }
 #sidetext {
     float: left;
+    color: #700CBC;
     position: relative;
     width: 10em;
     margin: 0 0.5em 2.0em 0.5em;
